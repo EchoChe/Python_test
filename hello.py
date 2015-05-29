@@ -1,4 +1,5 @@
 #!/usr/bin/env python
 #hello.py
 
-print 'hello,world'
+name = raw_input()
+print 'hello,world,', name
